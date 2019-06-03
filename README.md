@@ -10,3 +10,13 @@
   + JavaScript
   + canvas
   + 移动端Web前端知识体系
+
+### 二. 计算机基础
+
+* HTTP协议
+
+  + HTTP
+
+  + HTTP 分析
+
+    ​
